@@ -1,5 +1,3 @@
-# Projects
-
 ## C++
 ### Blackjack
   * A C++ implementation of the card game "Blackjack".
@@ -9,6 +7,3 @@
 
 ### Tic-Tac-Toe
   * A C++ implementation of the game "Tic-Tac-Toe".
-  
-## C#
-## Java
